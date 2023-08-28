@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693241998 source:c:\users\gusta\Área de trabalho\code\vector-one-to-hundred\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
