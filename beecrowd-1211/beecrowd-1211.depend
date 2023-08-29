@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693263568 source:c:\users\gusta\Área de trabalho\code\beecrowd-1211\main.c
+	<stdio.h>
+	<string.h>
+
